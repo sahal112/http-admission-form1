@@ -1,0 +1,98 @@
+/* main {
+    display: grid;
+    grid-template-columns: 15% auto;
+} */
+
+
+
+
+nav {
+    position: relative;
+}
+
+nav ul {
+    list-style: none;
+    width: 6rem;
+}
+
+nav li {
+    padding: .5rem;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+.red {
+    color: red
+}
+span {
+    color: blue;
+    font-weight: bold;
+    font-size: 1rem
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 5px solid 
+ }  
+
+.steps {
+    color: red
+
+}
+
+em {
+    text-decoration: underline;
+    color: darkgreen
+}
+
+.green {
+    color: green;
+}
+
+.btn-orange {
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-blue {
+    color: white;
+    background-color: blue;
+    border: none;
+    border-radius: 3px
+}
+
+.btn-green {
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn-border {
+    color: palevioletred;
+    background-color: white;
+    border: solid palevioletred;
+    border-radius: 5px 
+}
+
+.btn-grey {
+    background-color: rgb(192, 187, 187);
+    border: none;
+    border-radius: 5px
+}
+
+button:hover {
+    color: yellow;
+    background-color: darkslategray;
+}
+
+.link:hover {
+    color: darkslateblue;
+}
